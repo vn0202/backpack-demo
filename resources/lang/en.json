@@ -1,0 +1,6 @@
+{
+    "The :attribute must contain at least one letter.": "Mật khẩu phải có ít nhất 1 ký tự chữ",
+    "The :attribute must contain at least one uppercase and one lowercase letter.": " Mật khẩu  phải có ít nhất 1 ký tự hoa và 1 ký tự thường",
+    "The :attribute must contain at least one number.": "  Mật khẩu phải có ít nhất 1 chữ số",
+    "The :attribute must contain at least one symbol.": " Mật khẩu phải có ít nhất 1 ký tự đặc biệt"
+}
